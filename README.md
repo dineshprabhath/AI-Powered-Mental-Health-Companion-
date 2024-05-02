@@ -16,10 +16,10 @@ The following instructions were tested on the Windows and Linux with Python 3.8.
 1. Clone this repository
 
 ```
-git clone https://github.com/Rogendo/Mental-health-Chatbot.git
+git clone https://github.com/dineshprabhath/AI-Powered-Mental-Health-Companion.git
 ```
 ```
-cd Mental-health-Chatbot/
+cd AI-Powered-Mental-Health-Companion/
 ```
 
 2. Create and activate virtual environment 
